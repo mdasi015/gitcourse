@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+     <appSettings>
+     	<add key="Teste1" value="valor para chave Teste1" />
+     	<add key="Teste2" value="valor para chave Teste2" />
+     </appSettings>
+</configuration>
+
